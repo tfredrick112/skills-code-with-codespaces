@@ -19,5 +19,5 @@
          ]
      }
  },
- "postCreateCommand": "./setup.sh | bash"
+ "postCreateCommand": "./setup.sh"
 }
